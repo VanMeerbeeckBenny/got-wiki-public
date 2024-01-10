@@ -21,6 +21,6 @@ Each character belongs to a house. Display all characters for each house.
 The choice is made using a **select** element.
 
 ## Disclaimer:
-In compliance with copyright laws, all images originally included in this repository have been removed. This action has been taken to ensure adherence to copyright regulations and respects the intellectual property rights of the respective copyright holders. The focus of this project is on code demonstration and educational purposes. If you have any concerns regarding the content or believe there has been an oversight, please contact us for prompt resolution.
+In compliance with copyright laws, all images originally included in this repository have been removed. This action has been taken to ensure adherence to copyright regulations and respects the intellectual property rights of the respective copyright holders. The focus of this project is on code demonstration and educational purposes. If you have any concerns regarding the content or believe there has been an oversight, please contact me for prompt resolution.
 
 
