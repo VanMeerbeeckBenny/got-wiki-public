@@ -6,7 +6,7 @@ Create an application that displays a list of characters from Game of Thrones. G
 - The name of the character
 - The name of the actor portraying the character
 
-**The characters can be found in `datafile.js`. *this file hase been removed but is pulled from an other repo* **
+**The characters can be found in `datafile.js`. *(this file hase been removed but is pulled from an other repo)* **
 
 The application should allow filtering in two ways:
 - Filter characters based on royal status
