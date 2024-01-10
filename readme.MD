@@ -1,34 +1,26 @@
 # PE02 - Game of Thrones Character Wiki
 
-## Opgave
-Maak een applicatie waar in je een lijst weergeeft van een aantal karakters uit Game of Thrones. Maak hiervoor zelf 'kaartjes' met de info van het karakter.
-Minimaal weer te geven is:
-- een afbeelding van het karakter
-- de naam van het karakter
-- de naam van de auteur die het karakter speelt
+## Assignment
+Create an application that displays a list of characters from Game of Thrones. Generate 'cards' containing character information, including:
+- An image of the character
+- The name of the character
+- The name of the actor portraying the character
 
-**De karakters vind je in `datafile.js`.**
+**The characters can be found in `datafile.js`. *this file hase been removed but is pulled from an other repo* **
 
-De applicatie moet het mogelijk maken om te filteren op twee manieren:
-- de karakters filteren o.b.v. royale status
-- de karakters filteren op basis van hun house
+The application should allow filtering in two ways:
+- Filter characters based on royal status
+- Filter characters based on their house
 
-## royals filteren
-Voorzie een manier waarop je met behulp van **radio buttons** een keuze kan maken tussen alle karakters, royals en niet-royals
+## Filtering Royals
+Provide a way to choose between all characters, royals, and non-royals using **radio buttons**.
 
-## filteren o.b.v. house
-Elk karakter heeft een house waartoe het behoort.
-Zorg ervoor dat je per house alle karakters weergeeft.
+## Filtering Based on House
+Each character belongs to a house. Display all characters for each house.
 
-De keuze wordt gemaakt m.b.v. een **select** element.
+The choice is made using a **select** element.
 
-## Bonus:
+**Disclaimer:**
+In compliance with copyright laws, all images originally included in this repository have been removed. This action has been taken to ensure adherence to copyright regulations and respects the intellectual property rights of the respective copyright holders. The focus of this project is on code demonstration and educational purposes. If you have any concerns regarding the content or believe there has been an oversight, please contact us for prompt resolution.
 
-Voeg uitgebreide filtering toe. Bv. zoeken op basis van user input, levend/dood, ...
-Wees creatief!
 
-(Doe deze pas na de les van API) Haal de data rechtstreeks op van het internet:
-https://raw.githubusercontent.com/jeffreylancaster/game-of-thrones/master/data/characters.json
-
-# Voorbeelduitwerking
-![flow](screens/got.gif)
