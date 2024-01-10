@@ -1,4 +1,4 @@
-# PE02 - Game of Thrones Character Wiki
+Game of Thrones Character Wiki
 
 ## Assignment
 Create an application that displays a list of characters from Game of Thrones. Generate 'cards' containing character information, including:
